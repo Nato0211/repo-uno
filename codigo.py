@@ -1,6 +1,6 @@
-name= "Alexandra"
+name= "Alexandra "
 
-lastName = "Molina"
+lastName = "Molina "
 
 mensaje = "Te amo mucho"
 
